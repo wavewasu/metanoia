@@ -6,7 +6,10 @@ body {
 }
 
 .hi {
-    padding: 70px 0;
-    border: 3px solid green;
     text-align: center;
+    position: absolute;
+    display: block;
+	top: 2em;
+    width: 60%;
+    font-size: 3em;
  }
