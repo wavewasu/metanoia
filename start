@@ -12,7 +12,9 @@
 </head>
 
 <body>
-  <p class="hi">hi</p>
+  <div class="hi">
+    <p class="hi">hi</p>
+  </div>
 
 </body>
 
