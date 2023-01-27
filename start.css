@@ -5,7 +5,7 @@ body {
     margin: 20px
 }
 
-p {
+p .hi{
     text-align: center;
     position: absolute;
     display: block;
