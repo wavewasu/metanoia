@@ -5,8 +5,9 @@ body {
     margin: 20px
 }
 
-p {
-    padding: 70px 0;
+.hi p {
+    line-height: 200px;
+    height: 200px;
     border: 3px solid green;
     text-align: center;
 }
